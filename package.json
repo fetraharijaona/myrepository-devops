@@ -1,0 +1,20 @@
+{
+  "name": "myrepository-devops",
+  "version": "1.0.0",
+  "description": "devops",
+  "homepage": "https://github.com/fetraharijaona/myrepository-devops#readme",
+  "bugs": {
+    "url": "https://github.com/fetraharijaona/myrepository-devops/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fetraharijaona/myrepository-devops.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "student_RASOLONIRINA_Andry_Hasimbola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

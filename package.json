@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "test.js",
+  "main": "mahery.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }

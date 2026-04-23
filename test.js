@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-require("./mahery.js")
-=======
 
 console.log("=== TEST DEVOPS ===");
 
@@ -17,4 +14,3 @@ if (result === 4) {
 }
 
 require("./student_RAKOTO_Michael");
->>>>>>> c202b6d (Ajout contribution micka)

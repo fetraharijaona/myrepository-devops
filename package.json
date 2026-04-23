@@ -2,10 +2,28 @@
   "name": "myrepository-devops",
   "version": "1.0.0",
   "description": "devops",
+<<<<<<< HEAD
   "main": "mahery.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
+=======
+  "main": "student_RAKOTO_Michael.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fetraharijaona/myrepository-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fetraharijaona/myrepository-devops/issues"
+  },
+  "homepage": "https://github.com/fetraharijaona/myrepository-devops#readme"
+>>>>>>> c202b6d (Ajout contribution micka)
 }

@@ -1,0 +1,5 @@
+function presentation() {
+ console.log("Nom : RAF");
+ console.log("Prénom : Stephane");
+}
+presentation();
